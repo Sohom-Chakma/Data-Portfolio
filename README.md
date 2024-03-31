@@ -20,4 +20,4 @@ Predictive analytics use churn prediction models that predict customer churn by 
 
 "Game Title Prediction" is an analytical project aimed at uncovering patterns within the gaming community by predicting which games players are most likely to enjoy, based on their activity and engagement. Our dataset is structured around three pivotal columns: userID, Title, and Hours Played
 
-[Link] (https://github.com/Sohom-Chakma/Data-Portfolio/blob/main/Steam_Sales.ipynb)
+[Link](https://github.com/Sohom-Chakma/Data-Portfolio/blob/main/Steam_Sales.ipynb)
