@@ -1,8 +1,8 @@
 # Data-Portfolio
 
-###Education
+### Education
 Diploma in CS @Sunway
 
-###Projects
+### Projects
 - TeleCom Customer Churn
 - Game Title Prediction
