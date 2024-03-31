@@ -3,6 +3,17 @@
 ### Education
 Diploma in CS @Sunway
 
+### Technologies
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- SQL
+- DataBricks
+- Google Colab
+- Excel
+
 ### Projects
 ## TeleCom Customer Churn
 
