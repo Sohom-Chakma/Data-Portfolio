@@ -4,5 +4,6 @@
 Diploma in CS @Sunway
 
 ### Projects
-- TeleCom Customer Churn
-- Game Title Prediction
+## TeleCom Customer Churn
+Link: 
+## Game Title Prediction
